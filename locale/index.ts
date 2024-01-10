@@ -63,7 +63,7 @@ const locale: Locale = {
     languages: {
       "en-us": "inglese",
       "it-it": "italiano",
-      "fr-fr": "francese"
+      "fr-fr": "francese",
       "es-es": "spagnolo"
     },
     method: "metodo",
