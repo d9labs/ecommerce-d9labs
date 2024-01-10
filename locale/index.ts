@@ -134,7 +134,7 @@ const locale: Locale = {
       "Les dernières nouvelles, produits et réductions, envoyés chaque semaine dans votre boîte de réception",
     subscribePlaceholder: "Entrez votre adresse email"
   },
-  "es-Es": {
+  "es-es": {
     languageName: "Español",
     welcome: "Hola",
     addToCart: "Añadir al carrito",
