@@ -149,7 +149,7 @@ const locale: Locale = {
     freeOver: "free over",
     language: "idioma",
     languages: {
-      "es-es": "español"
+      "es-es": "español",
       "en-us": "inglés",
       "it-it": "italiano",
       "fr-fr": "francés"
