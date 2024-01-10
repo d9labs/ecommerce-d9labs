@@ -22,7 +22,8 @@ const locale: Locale = {
     languages: {
       "en-us": "english",
       "it-it": "italian",
-      "fr-fr": "french"
+      "fr-fr": "french",
+      "es-es": "spanish"
     },
     method: "method",
     outOfStock: "The requested quantity is not available",
@@ -63,6 +64,7 @@ const locale: Locale = {
       "en-us": "inglese",
       "it-it": "italiano",
       "fr-fr": "francese"
+      "es-es": "spagnolo"
     },
     method: "metodo",
     outOfStock: "La quantità richiesta non è disponibile",
@@ -105,7 +107,8 @@ const locale: Locale = {
     languages: {
       "en-us": "anglais",
       "it-it": "italian",
-      "fr-fr": "français"
+      "fr-fr": "français",
+      "es-es": "espagnol"
     },
     method: "méthode",
     outOfStock: "La quantité demandée n'est pas disponible",
@@ -130,7 +133,48 @@ const locale: Locale = {
     subscribeText:
       "Les dernières nouvelles, produits et réductions, envoyés chaque semaine dans votre boîte de réception",
     subscribePlaceholder: "Entrez votre adresse email"
-  }
+  },
+  "es-Es": {
+    languageName: "Español",
+    welcome: "Hola",
+    addToCart: "Añadir al carrito",
+    available: "disponible",
+    notAvailable: "No disponible",
+    categories: "categorias",
+    startShopping: "Ir a la tienda",
+    learnMore: "Saber más",
+    continueShopping: "Seguir comprando",
+    shoppingBag: "Cesta",
+    days: "días",
+    freeOver: "free over",
+    language: "idioma",
+    languages: {
+      "es-es": "español"
+      "en-us": "inglés",
+      "it-it": "italiano",
+      "fr-fr": "francés"
+    },
+    method: "método",
+    outOfStock: "Esa cantidad no está disponible",
+    price: "precio",
+    selectSize: "Seleccionar talla",
+    shippingTo: "Enviar a",
+    backToAllProducts: "Ir a todos los productos",
+    reviews: "Reviews",
+    total: "Total",
+    subTotal: "Subtotal",
+    discount: "Descuento",
+    taxes: "Tasas",
+    giftCard: "Gift Card",
+    items: "items",
+    viewMore: "Ver más",
+    emptyProducts: "No hay productos",
+    shipping: "Envío",
+    subscribe: "Subscríbete",
+    subscribeTitle: "Subscribete a nuestra newsletter",
+    subscribeText: "Las últimas noticias, productos y descuentos en tu email",
+    subscribePlaceholder: "Pon tu email aquí"
+  },  
 };
 
 export default locale;
